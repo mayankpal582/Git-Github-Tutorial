@@ -1,0 +1,10 @@
+Git is a version  control system.
+With a help of git we go back to a previous version of code.
+Github is a cloud based web platform which is used for a management of project.
+cd :- Change directory
+pwd :- current path
+git init :- To initialised git repository.
+git clone :- To bring a existing project in your pc from github.
+ls :- to list a files.
+git status :- to check changes
+To check changes inside that file :- git diff (file name) 
